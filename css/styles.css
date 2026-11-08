@@ -1,0 +1,16 @@
+body {
+  background-color: #f6f8fb;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #263c62;
+}
+
+.singer-image {
+  max-width: 280px;
+}
+
+table {
+  font-size: 15px;
+}
