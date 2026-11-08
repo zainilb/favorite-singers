@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360" role="img" aria-label="Singer illustration">
+  <circle cx="180" cy="180" r="167" fill="#e6eefb"/>
+  <circle cx="112" cy="103" r="32" fill="#1b2a47"/>
+  <path d="M86 145 Q111 132 139 151 L151 229 L137 311 L107 311 L101 234 L81 312 L53 307 L70 216 L73 175Z" fill="#1b2a47"/>
+  <path d="M138 162 L184 135" fill="none" stroke="#1b2a47" stroke-width="17" stroke-linecap="round"/>
+  <path d="M181 119 L193 104" fill="none" stroke="#1b2a47" stroke-width="12" stroke-linecap="round"/>
+  <rect x="189" y="71" width="25" height="54" rx="12" fill="#516a96" transform="rotate(22 201 98)"/>
+  <path d="M214 125 L254 309" stroke="#1b2a47" stroke-width="7" stroke-linecap="round"/>
+  <path d="M234 310 H277" stroke="#1b2a47" stroke-width="7" stroke-linecap="round"/>
+  <g fill="#41669e">
+    <circle cx="282" cy="79" r="12"/>
+    <path d="M292 79 V28 L325 21 V35 L302 40 V80Z"/>
+    <circle cx="322" cy="152" r="10"/>
+    <path d="M330 153 V111 L353 107 V119 L338 124 V151Z"/>
+    <circle cx="244" cy="54" r="7"/>
+    <path d="M249 54 V26 L268 22 V32 L256 35 V53Z"/>
+  </g>
+</svg>
